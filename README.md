@@ -14,5 +14,10 @@ Tasks
 - Recognize different faces after being trained (with confidence values)
 - Is being tested with celebrity faces as a temporary placeholder
 
+# Library Used
+- OpenCV
+- numpy
+- os
+
 
 
