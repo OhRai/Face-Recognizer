@@ -12,6 +12,7 @@ Tasks
 # Finished Tasks
 - Detecting Faces
 - Recognize different faces after being trained (with confidence values)
+- Is being tested with celebrity faces as a temporary placeholder
 
 
 
