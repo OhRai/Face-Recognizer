@@ -1,13 +1,13 @@
-# FaceAttend
-A program that can detect and recognize students and mark them present when going to class.
+# Face Recognizer
+A program that can detect and recognize human faces.
 
 # What is the goal?
 The goal for this program is to act as a simple and easy to use attendance tracker so that teachers can check who is in the class.
 
 Tasks
-- Recognize and Detect each student
-- Store the student's data in a database (wip)
-- Create a UI/UX for the program
+- Recognize and detect faces
+- Create a GUI for the program
+- Turn this into an attendance tracker
 
 # Finished Tasks
 - Detecting Faces
